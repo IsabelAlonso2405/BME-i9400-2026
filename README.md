@@ -27,6 +27,15 @@ September 2.**
 
 ---
 
+### Meeting 2 · Wed Sep 2 — Probability for Diagnosis
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmochow/BME-i9400-2026/blob/main/notebooks/meeting02_probability_for_diagnosis.ipynb)
+
+Bayes' rule, prevalence, sensitivity and specificity, PPV and NPV, and likelihood ratios — worked
+through real screening-mammography benchmarks.
+
+---
+
 ## How to use these notebooks
 
 1. Click the **Open in Colab** badge.
