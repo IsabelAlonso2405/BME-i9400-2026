@@ -13,8 +13,8 @@ result with the rigor that biomedical use demands.
 
 ### Meeting 1 · Mon Aug 31 — asynchronous
 
-I am away at a meeting in DC for our first session, so Meeting 1 is a recorded walkthrough.
-Watch the video (posted on Brightspace) with this notebook open beside you, and run every cell.
+I am away at a meeting in DC for our first session, so there is no live class. Work through
+this notebook on your own — it is self-contained. Read it in order and run every cell.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmochow/BME-i9400-2026/blob/main/notebooks/meeting01_course_launch_and_tools.ipynb)
 
