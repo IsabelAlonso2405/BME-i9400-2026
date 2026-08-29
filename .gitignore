@@ -4,3 +4,9 @@ __pycache__/
 *.pyc
 .env
 .idea/
+syllabus/BME_i9400_Syllabus_Fall2026.html
+syllabus/BME_i9400_Syllabus_Fall2026.md
+syllabus/build_syllabus.py
+syllabus/syllabus.css
+syllabus/syllabus_2026.html
+syllabus/BME_i9400_Syllabus_Fall2026.md

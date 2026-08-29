@@ -10,7 +10,7 @@
 | **Meetings** | Mon & Wed 11:00–12:15 · 28 total · Steinman Hall C-51 |
 | **Credits** | 3 |
 | **Runtime** | Google Colab |
-| **Platform** | Brightspace · github.com/BME-i9400 |
+| **Platform** | github.com/dmochow/BME-i9400-2026 · Brightspace |
 
 ---
 
@@ -37,7 +37,7 @@ By the end of the course you will be able to:
 4. Build, regularize, and interpret linear-model and tree-ensemble baselines.
 5. Train neural networks in PyTorch and adapt pretrained image, signal, and text models rather than treat them as black boxes.
 6. Determine what a model learned via coefficient, permutation, and gradient-based attribution.
-7. Determine whether an effect is real via bootstrap intervals and paired model comparison.
+7. Determine whether an effect is real via bootstrap confidence intervals and paired model comparison.
 
 ## How the course runs
 

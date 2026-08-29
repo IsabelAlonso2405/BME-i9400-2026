@@ -16,11 +16,14 @@ result with the rigor that biomedical use demands.
 I am away at a meeting in DC for our first session, so Meeting 1 is a recorded walkthrough.
 Watch the video (posted on Brightspace) with this notebook open beside you, and run every cell.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmochow/BME-i9400-2026/blob/main/notebooks/meeting01_launch_and_data_readiness.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmochow/BME-i9400-2026/blob/main/notebooks/meeting01_course_launch_and_tools.ipynb)
 
-**Course launch, Colab setup, and biomedical data readiness** — provenance, label quality, splits,
-and leakage. Ends with a short check-in you submit as a pull request. **Due before Meeting 2 on
-Wednesday, September 2.**
+**Course launch and course tools** — Google Colab, Python for data science, and Git/GitHub. No
+machine learning yet; the goal is that nobody in the class is blocked by software.
+
+Ends with a check-in: create a GitHub account, fork and clone this repository with GitHub Desktop,
+edit the notebook, then commit, push, and open a pull request. **Due before Meeting 2 on Wednesday,
+September 2.**
 
 ---
 
