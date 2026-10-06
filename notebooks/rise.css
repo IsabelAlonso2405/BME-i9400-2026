@@ -1,0 +1,12 @@
+/* jupyterlab-rise loads this file automatically for every notebook in this folder.
+
+   1. RISE pins the slide container to the window (width: 100% !important), which defeats reveal.js
+      scaling. Pin it instead to the design size declared in each slides notebook's metadata
+      (rise.width / rise.height), so the deck scales to fill any screen. Keep these two numbers
+      equal to that metadata.                                                                     */
+.rise-enabled .reveal .slides { width: 960px !important; height: 540px !important; }
+
+/* 2. Figure-only cells have their code input collapsed (metadata jupyter.source_hidden). In the
+      slideshow the collapsed-input placeholder would show as a large banner; hide it. The code is
+      still there: exit the slideshow, or click the cell's left margin, to expand it.            */
+.rise-enabled .jp-InputPlaceholder { display: none !important; }

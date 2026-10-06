@@ -10,3 +10,22 @@ syllabus/build_syllabus.py
 syllabus/syllabus.css
 syllabus/syllabus_2026.html
 syllabus/BME_i9400_Syllabus_Fall2026.md
+
+# nbconvert build artifacts
+*.slides.html
+
+# private working notes, not course material
+NOTEBOOK_STYLE.md
+
+# instructor solution copies — must never reach the public repo
+*copy.ipynb
+*_solution.ipynb
+*_key.ipynb
+
+# private session notes, not course material
+journal/
+PROJECT_STATE.md
+NEXT_ACTIONS.md
+
+# instructor-only material (quiz keys, worked solutions), any file type
+*TEACHER_COPY*
